@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class Main {
     public static void main(String args[]) {
-        Random random = new Random();
+       // Random random = new Random();
         int num[] = new int[4];
         try {
             System.out.println("Before exception is generated.");
